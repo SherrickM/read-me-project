@@ -1,9 +1,9 @@
-# sd 
+# ReadMe 
   ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
   
   ## Description
   
- sdf
+ create a read me
   
   ## Table of Contents 
   
@@ -24,12 +24,12 @@
   To install necessary dependencies, run the following command:
   
   ```
- sdf
+ nmp
   ```
   
   ## Usage
   
-  sdf
+  nothing
   
  ## License
   
@@ -37,16 +37,16 @@
     
   ## Contributing
   
- sdf
+ nothing
   
   ## Tests
   
   To run tests, run the following command:
   
 ```
-  sdf
+  nmp
 ```
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at asdfa You can find more of my work at [vinnielo](https://github.com/vinnielo/).
+  If you have any questions about the repo, open an issue or contact me directly at smcneal@gmail.com You can find more of my work at [smcneal](https://github.com/smcneal/).
